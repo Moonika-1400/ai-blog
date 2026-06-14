@@ -1,0 +1,6 @@
+{
+  "name": "AI Blog & CMS",
+  "description": "A very simple, distraction-free CMS for students and content creators with AI-assisted blog writing and daily journaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
